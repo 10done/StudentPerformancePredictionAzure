@@ -4,9 +4,9 @@
 
 ## Run from terminal:
 
-docker build -t testdockerkrish.azurecr.io/mltest:latest .
+docker build -t testdockeranubhav.azurecr.io/mltest:latest .
 
-docker login testdockerkrish.azurecr.io
+docker login testdockeranubhav.azurecr.io
 
-docker push testdockerkrish.azurecr.io/mltest:latest
+docker push testdockeranubhav.azurecr.io/mltest:latest
 "# StudentPerformancePredictionAzure" 
